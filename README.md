@@ -50,7 +50,6 @@ Do not forget some css-styling:
 ## Options
 
 <table>
-	
 	<thead>
 		<tr>
 			<th>Option</th>
@@ -59,7 +58,6 @@ Do not forget some css-styling:
 			<th>Default</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td><strong>multi</strong></td>
